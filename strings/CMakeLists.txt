@@ -1,2 +1,2 @@
-add_library(strings IsPalindrome.cpp)
+add_library(strings IsPalindrome.cpp HasRepetitiveChars.cpp)
 
