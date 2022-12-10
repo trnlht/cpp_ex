@@ -1,7 +1,8 @@
 #include "IsPalindrome.h"
 #include "HasRepetitiveChars.h"
+#include "IsPermutation.h"
 
 int main()
 {
-    HasRepetitiveCharsTest();
+    is_permutation_tests();
 }
